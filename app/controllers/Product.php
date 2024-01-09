@@ -1,1 +1,4 @@
-product controller
+<?php 
+class Product {
+  
+}

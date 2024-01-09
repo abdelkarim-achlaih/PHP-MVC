@@ -1,1 +1,4 @@
-Home controller
+<?php 
+class Home extends Controller {
+
+}
